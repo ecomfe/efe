@@ -18,7 +18,7 @@ EFE-TC 的主要职责是技术方向把握，在技术上决定 EFE 体系做�
 
 EFE技术体系划分了五个技术方向。下面列表中，`@`后面的人为方向负责人。
 
-- Data Visualization @kener
+- Data Visualization @pissang
 - Interface @Justineo
 - Mobile @firede
 - Platform @leeight
